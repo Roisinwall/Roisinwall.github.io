@@ -1,7 +1,6 @@
 ul {
 	list-style-type:none;
 	background-color:lightblue;
-	padding:10px, 0, 10px, 0; 
 	a:link, a:visited {
 	color: white;
 	font-family:Arial, sans-serif;
