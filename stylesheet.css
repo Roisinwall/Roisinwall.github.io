@@ -16,6 +16,16 @@ p1 {
 	text-align: center;
 }
 
+p {
+    font-family: Arial, sans-serif;
+    text-align: center;
+   }
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
 a:link, a:visited {
     background-color: navy;
     color: white;
@@ -24,4 +34,14 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+}
+a:hover, a:active {
+    background-color: lightgray;
+}
+
+img {
+        margin: auto;
+}
+ul {
+    list-stye-type: none;
 }
