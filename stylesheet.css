@@ -16,3 +16,12 @@ p1 {
 	text-align: center;
 }
 
+a:link, a:visited {
+    background-color: navy;
+    color: white;
+    font-family:Arial, sans-serif;
+    padding: 17px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
