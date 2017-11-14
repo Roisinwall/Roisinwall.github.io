@@ -23,9 +23,6 @@ li {
     border-bottom: 1px solid #555;
 }
 
-li:last-child {
-    border-bottom: none;
-}
 
 li a.active {
     background-color: #4CAF50;
@@ -40,8 +37,6 @@ li a:hover:not(.active) {
 </head>
 <body>
 
-<h2>Vertical Navigation Bar</h2>
-<p>In this example, we center the navigation links and add a border to the navigation bar.</p>
 
 <ul>
   <li><a class="active" href="#home">Home</a></li>
